@@ -1,5 +1,4 @@
 ## Pathak-Murari Steganography GUI
-**Abstract:**
 
 Pathak-Murari Steganography is a software application designed for the robust and user-friendly embedding of secret information within image files. Developed in Python, the program caters to individuals and organizations requiring a secure and convenient means for data concealment. This document formalizes the program's functionality, technical specifications, and intended applications.
 
